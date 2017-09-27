@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1506523309704.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1165887783",
+    "id" : "52BBD8E4",
+    "lastKnownWriteTime" : 1506523703,
+    "last_content_update" : 1506523703253,
+    "path" : "C:/Djalma/anamco/R/ppv.R",
+    "project_path" : "R/ppv.R",
+    "properties" : {
+        "cursorPosition" : "18,26",
+        "scrollLine" : "12"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
