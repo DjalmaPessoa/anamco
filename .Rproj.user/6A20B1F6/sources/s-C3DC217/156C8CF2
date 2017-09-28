@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1506607633217.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "332839307",
+    "id" : "156C8CF2",
+    "lastKnownWriteTime" : 1506608600,
+    "last_content_update" : 1506608600928,
+    "path" : "~/GitHub/anamco/R/popul.R",
+    "project_path" : "R/popul.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
