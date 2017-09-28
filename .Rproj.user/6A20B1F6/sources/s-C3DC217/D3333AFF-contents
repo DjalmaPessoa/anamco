@@ -1,5 +1,0 @@
-source("C:\\Djalma\\Aula_Pedro\\dados\\amolim.txt")
-names(amo.lim)<- tolower(names(amo.lim))
-names(amo.lim)
-amolim<- amo.lim
-save(amolim, file="C:/Users/owner/Documents/GitHub/anamco/data/amolim.rdata")
