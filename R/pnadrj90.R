@@ -15,6 +15,9 @@
 #'  \item{re}{salário}
 #'  \item{um}{valores 1}
 #'  }
+#'
+#' @source Pesquisa Nacional por Amostra de Domicílios do IBGE -1990
+#'  \url{https://ww2.ibge.gov.br/home/estatistica/populacao/trabalhoerendimento/pnad2014/microdados.shtm}.
 #
 #'@examples
 #' pnadrj90

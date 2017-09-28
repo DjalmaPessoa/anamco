@@ -8,7 +8,7 @@
 #'   \item{ident}{código de identificação}
 #'   \item{codmor}{código de identificação do morador}
 #'   \item{v04a01}{1- pode ler; 2- não apto a ler}
-#'   \item{v04a02}{1- abilidade de leitura; 2- nenhuma abilidade de #'  leitura}
+#'   \item{v04a02}{1- habilidade de leitura; 2- nenhuma habilidade de leitura}
 #'   \item{v04a03}{relacionado a capacidade de leitura}
 #'   \item{estratof}{estrato final}
 #'   \item{peso1}{pesos no primeiro estágio}
@@ -19,7 +19,8 @@
 #'   \item{v02a08}{idades}
 #'   }
 #' @details Se \code{v04a01} é 2 ou \code{v04a02} é 2 então a pessoa é analfabeta.
-#' @source Pesquisa de Padrão de Vida do IBGE
+#' @source Pesquisa sobre Padrões de Vida do IBGE
+#' \url{http://servicodados.ibge.gov.br/Download/Download.ashx?u=ftp.ibge.gov.br/Estatisticas_Sociais/microdados_pesquisa_sobre_padroes_de_vida.zip}
 #' @references Pessoa & Silva, Análise de Dados Amostrais Complexos
 #'@examples
 #' ppv
